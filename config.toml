@@ -59,7 +59,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "Computer science geek with a passion for everything systems development. Product owner Oslo Origo. #applefanboy. Eager boy scout in love with nature. #kmspeider"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -98,6 +98,7 @@ disableHugoGeneratorInject = false
   [params.portrait]
     path = "/img/image.jpg"
     alt = "Portrait"
+    style = "width: 100px;"
 
   # Social icons
   [[params.social]]
