@@ -33,9 +33,6 @@ disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
 
-[permalinks]
-  posts = "/posts/:year/:month/:title/"
-
 [author]
   name = "Jan Henrik Gundelsby"
 
@@ -126,13 +123,13 @@ disableHugoGeneratorInject = false
 
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
+    identifier = "foredrag"
+    name       = "Foredrag"
+    url        = "foredrag/"
   [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
+    identifier = "papers"
+    name       = "Papers"
+    url        = "papers/"
 
 [deployment]
   [[deployment.targets]]
