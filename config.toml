@@ -1,5 +1,4 @@
-  
-baseURL = "https://goofy-brown-9369c6.netlify.app"
+baseURL = "https://gundelsby.com"
 title   = "Jan Henrik Gundelsby"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -134,3 +133,10 @@ disableHugoGeneratorInject = false
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+
+[deployment]
+  [[deployment.targets]]
+    name = "gundelsby.com"
+    URL = "s3://www.gundelsby.com?region=us-east-1"
+    cloudFrontDistributionID = "E2YEIO16UQUT77"
+
