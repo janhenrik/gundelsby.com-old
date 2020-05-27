@@ -1,5 +1,6 @@
 baseURL = "https://gundelsby.com"
 title   = "Jan Henrik Gundelsby"
+googleAnalytics = "UA-35123816-1"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
