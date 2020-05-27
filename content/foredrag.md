@@ -1,9 +1,8 @@
 ---
 title: "Foredrag"
-date: 2020-05-26T23:03:46+02:00
-draft: true
+date: 2020-05-27T08:36:41+02:00
+draft: false
 ---
-
 *   <span>JavaZone 2019</span> » [Det er greit å gjøre feil: 20 år med tabber](https://vimeo.com/362754811)
 *   <span>Smidig digitalisering 2019</span> » [Slik gjennomfører vi digital transformasjon i Oslo kommune (med Tine Reuterdahl)](https://vimeo.com/339704697)
 *   <span>Software 2019</span> » [Slik gjennomfører vi digital transformasjon i Oslo kommune (med Tine Reuterdahl)](https://event.dnd.no/software/sessions/slik-gjennomforer-vi-digital-transformasjon-i-oslo-kommune/)
