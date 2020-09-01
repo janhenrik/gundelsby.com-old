@@ -56,7 +56,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Computer science geek with a passion for everything systems development. Product owner Oslo Origo. #applefanboy. Eager boy scout in love with nature. #kmspeider"
+  homeSubtitle = "Computer science geek with a passion for everything systems development. Chief Scientist @ Knowit. #applefanboy. Eager boy scout in love with nature. #kmspeider"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
