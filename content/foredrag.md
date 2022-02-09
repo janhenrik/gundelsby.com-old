@@ -3,6 +3,8 @@ title: "Foredrag"
 date: 2020-05-27T08:36:41+02:00
 draft: false
 ---
+*   <span>JavaZone 2021</span> » [Dynamisk DNS med AWS Lambda og Route 53](https://2021.javazone.no/#/program/3efdb3b6-fbbd-4f10-b553-561e31d6ef37)
+*   <span>NOKIOS 2021</span> » [Hva sier forskningen om datadreven digital transformasjon i offentlig sektor?](https://www.youtube.com/watch?v=rCcilTtTxbc)
 *   <span>JavaZone 2019</span> » [Det er greit å gjøre feil: 20 år med tabber](https://vimeo.com/362754811)
 *   <span>Smidig digitalisering 2019</span> » [Slik gjennomfører vi digital transformasjon i Oslo kommune (med Tine Reuterdahl)](https://vimeo.com/339704697)
 *   <span>Software 2019</span> » [Slik gjennomfører vi digital transformasjon i Oslo kommune (med Tine Reuterdahl)](https://event.dnd.no/software/sessions/slik-gjennomforer-vi-digital-transformasjon-i-oslo-kommune/)
