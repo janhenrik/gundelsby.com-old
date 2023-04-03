@@ -3,7 +3,8 @@ title: "Foredrag"
 date: 2020-05-27T08:36:41+02:00
 draft: false
 ---
-*   <span>Arendalsuka 2022</span> » [Organisering av produktutvikling i store organisasjoner](https://www.slideshare.net/janhenrik2/20220818-arendalsukapdf)
+*   <span>Undervisning UiO 2023 - IT og Ledelse - Produktorganisering og OKR</span> » [ITLED4350 Produktorganisering og OKR](https://gundelsby.com/files/20230323-ITLED-ProduktorganiseringOgOKR.pdf)
+*   <span>Arendalsuka 2022</span> » [Organisering av produktutvikling i store organisasjoner](/files/20230323-ITLED-ProduktorganiseringOgOKR.pdf)
 *   <span>JavaZone 2021</span> » [Dynamisk DNS med AWS Lambda og Route 53](https://vimeo.com/677812664)
 *   <span>NOKIOS 2021</span> » [Hva sier forskningen om datadreven digital transformasjon i offentlig sektor?](https://www.youtube.com/watch?v=rCcilTtTxbc)
 *   <span>JavaZone 2019</span> » [Det er greit å gjøre feil: 20 år med tabber](https://vimeo.com/362754811)
