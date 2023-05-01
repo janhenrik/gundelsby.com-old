@@ -3,7 +3,6 @@ title: "Papers"
 date: 2020-05-26T23:04:41+02:00
 draft: false
 ---
-https://doi.org/10.1109/MS.2022.3230449
 
 *   <span>IEEE Software 2023</span> » [K. Conboy, N. B. Moe, V. Stray and J. H. Gundelsby, "The Future of Hybrid Software Development: Challenging Current Assumptions," in IEEE Software, vol. 40, no. 2, pp. 26-33, March-April 2023, doi: 10.1109/MS.2022.3230449.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10043613)
 
