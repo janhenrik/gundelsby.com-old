@@ -132,9 +132,3 @@ disableHugoGeneratorInject = false
     name       = "Papers"
     url        = "papers/"
 
-[deployment]
-  [[deployment.targets]]
-    name = "gundelsby.com"
-    URL = "s3://www.gundelsby.com?region=us-east-1"
-    cloudFrontDistributionID = "E2YEIO16UQUT77"
-
